@@ -1,7 +1,7 @@
 //--- JavaScript ----------
 
 var nome = window.prompt('Qual e o seu nome?');
-window.alert('E um prazer eu em te conhecer ' + nome + '!');
+window.alert('E um prazer em te conhecer ' + nome + '!');
 
 
 /*---------- CONVERTER DE STRING/NÚMERO usar - parseInt  (se for de NÚMERO/STRING usar ToString ---------*/
