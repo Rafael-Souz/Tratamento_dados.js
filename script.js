@@ -1,6 +1,6 @@
 //--- JavaScript ----------
 
-var nome = window.prompt('Qual e oseu nome?');
+var nome = window.prompt('Qual e o seu nome?');
 window.alert('E um prazer eu em te conhecer ' + nome + '!');
 
 
