@@ -18,9 +18,9 @@ var cidade =  window.prompt(' Digite o nome da sua cidade?');
 
 window.alert('Eu sou ' + nome + ' tenho '   + idade + ' anos de idade  é moro ' + cidade);
 
-/* -- Usando length / ToUpperCase() para maiúsculo /  ToLowerCase() para minúsculo  */
+/* -- Usando length / toUpperCase() para maiúsculo /  toLowerCase() para minúsculo  */
 
 var nome = window.prompt('Digite seu nome?');
 document.write('Óla, ${nome}! Seu nome tem ${nome.length} letras.<br>')
-document.write('Seu nome em maiúsculo é ${nome.ToUpperCase()}<br>')
-document.write('Seu nome em minúsculo é ${nome.ToLowerCase()}')
+document.write('Seu nome em maiúsculo é ${nome.toUpperCase()}<br>')
+document.write('Seu nome em minúsculo é ${nome.toLowerCase()}')
